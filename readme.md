@@ -1,6 +1,6 @@
-CS50x Problem Set 9
+CS50x Final Project
 
-My Final Project ("Anagram" in C) for CS50x.
+To use the program, visit https://repl.it/@jeremybowden73/Anagram and hit the green "run" button to start, then follow the instructions in the empty pane below.
 
 To implement anagram.c, the dictionary "corncob" file must be in a sub-folder named dictionaries (ref line 17 of anagram.c)
 
